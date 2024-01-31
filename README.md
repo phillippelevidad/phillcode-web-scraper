@@ -1,7 +1,5 @@
 [<img src="https://i.ytimg.com/vi/z5L56rbIMPc/maxresdefault.jpg">](https://www.youtube.com/watch?v=z5L56rbIMPc "Web Scraper Node JS em 6 MINUTOS!")
 
-https://www.youtube.com/watch?v=z5L56rbIMPc
-
 Vamos criar juntos um WEB SCRAPER, um robô que consegue extrair informações de uma página HTML, pra você automatizar a coleta de dados de websites de forma eficiente e rápida!
 
 ⭐ Você verá como usar a biblioteca AXIOS para baixar o html de uma página, e a CHEERIO para manipular e encontrar elementos dentro do html
@@ -15,9 +13,9 @@ Vamos criar juntos um WEB SCRAPER, um robô que consegue extrair informações d
 * Automatização de testes de software
 * Agregação de notícias e conteúdo
 
-✅ CÓDIGO FONTE DO VÍDEO
+✅ VÍDEO
 
-* https://github.com/phillippelevidad/phillcode-web-scraper
+* https://www.youtube.com/watch?v=z5L56rbIMPc
 
 ✅ SIGA-ME NAS REDES
 
